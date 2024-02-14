@@ -1,5 +1,5 @@
 # Mario Mayerle
-![ChatGPT]
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 Bem-vindo ao meu perfil! Aqui você encontrará links para meus projetos, colaborações e mais informações sobre mim.
 
