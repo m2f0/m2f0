@@ -1,16 +1,22 @@
-### Hi there 👋
+# Mario Mayerle
 
-<!--
-**m2f0/m2f0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil! Aqui você encontrará links para meus projetos, colaborações e mais informações sobre mim.
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desenvolvedor, educador e entusiasta de tecnologia, focado em criar soluções inovadoras e compartilhar conhecimento.
+
+## Projetos
+
+- **EduCérebro**: Plataforma educacional voltada para o desenvolvimento cognitivo. [Visite](https://educerebro.com.br)
+- **NNovUP**: Iniciativa de inovação e desenvolvimento tecnológico. [Saiba Mais](https://nnovup.com.br)
+
+## Recursos
+
+- **Ebook ChatGPT**: Guia completo sobre o ChatGPT e suas aplicações. [Adquira](https://educerebro.store)
+- **Mapas Mentais Inteligência Artificial**: Material gratuito sobre IA. [Download Gratuito](https://educerebro.store)
+
+## Contato
+
+Para mais informações, colaborações ou consultas, não hesite em entrar em contato através do [LinkedIn](https://www.linkedin.com).
+
