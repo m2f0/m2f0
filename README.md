@@ -1,4 +1,5 @@
 # Mario Mayerle
+![ChatGPT]
 
 Bem-vindo ao meu perfil! Aqui você encontrará links para meus projetos, colaborações e mais informações sobre mim.
 
