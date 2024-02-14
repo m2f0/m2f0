@@ -16,7 +16,7 @@ Desenvolvedor, educador e entusiasta de tecnologia, focado em criar soluções i
 ## Recursos
 
 - **Ebook ChatGPT**: Guia completo sobre o ChatGPT e suas aplicações. [Adquira](https://educerebro.store)
-- **Mapas Mentais Inteligência Artificial**: Material gratuito sobre IA. [Download Gratuito](https://educerebro.store)
+- **Mapas Mentais Inteligência Artificial**: Material gratuito sobre IA. [Download - GRATUITO](https://educerebro.store)
 
 ## Contato
 
