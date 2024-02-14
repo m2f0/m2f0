@@ -10,6 +10,7 @@ Desenvolvedor, educador e entusiasta de tecnologia, focado em criar soluções i
 ## Projetos
 
 - **EduCérebro**: Plataforma educacional voltada para o desenvolvimento cognitivo. [Visite](https://educerebro.com.br)
+- **EduCerebro News**: Central de posts, notícias, tutoriais, podcast e muito mais. [Assine - GRATUITO](https://educerebro.substack.com/)
 - **NNovUP**: Iniciativa de inovação e desenvolvimento tecnológico. [Saiba Mais](https://nnovup.com.br)
 
 ## Recursos
