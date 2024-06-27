@@ -12,7 +12,7 @@ Mario Mayerle Filho é um renomado profissional de TI com mais de três décadas
 - **HUB I.A. Brasil**: O HUB I.A. Brasil impulsiona a Inteligência Artificial no país, conectando comunidades e promovendo inovação com lives, workshops e conteúdo de ponta.
 #HubIABrasil #InovaçãoTecnológica [Assine - GRATUITO](https://hubiabrasil.com.br/)
 - **NNovUP**: Empresa de inovação e desenvolvimento tecnológico. [Saiba Mais](https://nnovup.com.br)
-- **dataGPT**: Aplicativo SaaS de criação, analise e interpretações de gráficos (Big Data, Data Analisys & Data Engineering). [Saiba mais](https://www.datagpt.com.br)
+- ##dataGPT##: Aplicativo SaaS de criação, analise e interpretações de gráficos (Big Data, Data Analisys & Data Engineering). [Saiba mais](https://www.datagpt.com.br)
 
 ## Recursos
 
