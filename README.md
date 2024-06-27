@@ -9,10 +9,9 @@ Mario Mayerle Filho é um renomado profissional de TI com mais de três décadas
 
 ## Projetos
 
-- # HUB I.A. Brasil: O HUB I.A. Brasil impulsiona a Inteligência Artificial no país, conectando comunidades e promovendo inovação com lives, workshops e conteúdo de ponta.
-#HubIABrasil #InovaçãoTecnológica [Assine - GRATUITO](https://hubiabrasil.com.br/)
+- ## HUB I.A. Brasil: O HUB I.A. Brasil impulsiona a Inteligência Artificial no país, conectando comunidades e promovendo inovação com lives, workshops e conteúdo de ponta. [Assine - GRATUITO](https://hubiabrasil.com.br/)
 
-- # dataGPT: Aplicativo SaaS de criação, analise e interpretações de gráficos (Big Data, Data Analisys & Data Engineering). Projeto Open Source (código aberto) [Saiba mais](https://www.datagpt.com.br)
+- ## dataGPT: Aplicativo SaaS de criação, analise e interpretações de gráficos (Big Data, Data Analisys & Data Engineering). Projeto Open Source (código aberto) [Saiba mais](https://www.datagpt.com.br)
 
 
 ## Recursos
