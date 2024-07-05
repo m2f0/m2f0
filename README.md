@@ -24,5 +24,5 @@ Mario Mayerle Filho é um renomado profissional de TI com mais de três décadas
 ## Contato
 
 Para mais informações, colaborações ou consultas, não hesite em entrar em contato através do [LinkedIn](https://www.linkedin.com/in/mariomayerlefilho).
-- **NNovUP**: Empresa de inovação e desenvolvimento tecnológico. [Saiba Mais](https://nnovup.com.br)
+- Mario trabalha para a **NNovUP**: Empresa de inovação e desenvolvimento tecnológico. [Saiba Mais](https://nnovup.com.br)
 
