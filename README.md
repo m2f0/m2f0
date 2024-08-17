@@ -14,7 +14,7 @@ Author: Mario Mayerle Filho
 Bem-vindo! Aqui você encontrará links sobre projetos, colaborações e mais informações.
 
 ## Sumário
-1. [Sobre Mim](#sobre-mim)
+1. [Sobre](#sobre-mim)
 2. [Projetos](#projetos)
 3. [Recursos](#recursos)
 4. [Contato](#contato)
@@ -54,7 +54,7 @@ Para mais informações, colaborações ou consultas, não hesite em entrar em c
 Welcome! Here you will find links to projects, collaborations, and more information.
 
 ## Table of Contents
-1. [About Me](#about-me)
+1. [About](#about-me)
 2. [Projects](#projects)
 3. [Resources](#resources)
 4. [Contact](#contact)
