@@ -9,6 +9,7 @@ Author: Mario Mayerle Filho
 
 [![Inscreva-se no HUB I.A. Brasil](https://img.shields.io/badge/Inscreva--se%20no%20HUB%20I.A.%20Brasil-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://www.hubiabrasil.com.br/)
 
+Quer conversar comigo de forma inteligente e através de uma IA que tem conhecimento sobre todos os meus projetos, livros, etc? Acesse o meu GPT conectado ao meu MCP.
 
 [![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com/g/g-67dfd7d036ec819190467eb0cf12163a-mario-mayerle-personal-mcp)
 
