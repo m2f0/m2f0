@@ -10,7 +10,8 @@ Author: Mario Mayerle Filho
 [![Inscreva-se no HUB I.A. Brasil](https://img.shields.io/badge/Inscreva--se%20no%20HUB%20I.A.%20Brasil-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://www.hubiabrasil.com.br/)
 
 
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![ChatGPT]([https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white](https://chatgpt.com/g/g-67dfd7d036ec819190467eb0cf12163a-mario-mayerle-personal-mcp))
+
 Bem-vindo! Aqui você encontrará links sobre projetos, colaborações e mais informações.
 
 ## Sumário
