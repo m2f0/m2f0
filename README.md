@@ -7,7 +7,7 @@ Author: Mario Mayerle Filho
 -->
 # Mario Mayerle
 
-[![Inscreva-se no HUB I.A. Brasil](https://img.shields.io/badge/Inscreva--se%20no%20HUB%20I.A.%20Brasil-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://hubiabrasil.com.br/)
+[![Inscreva-se no HUB I.A. Brasil](https://img.shields.io/badge/Inscreva--se%20no%20HUB%20I.A.%20Brasil-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://www.hubiabrasil.com.br/)
 
 
 ![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white) ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719) 
