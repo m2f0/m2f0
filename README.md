@@ -10,8 +10,7 @@ Author: Mario Mayerle Filho
 [![Inscreva-se no HUB I.A. Brasil](https://img.shields.io/badge/Inscreva--se%20no%20HUB%20I.A.%20Brasil-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://www.hubiabrasil.com.br/)
 
 
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white) ![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719) 
-
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 Bem-vindo! Aqui você encontrará links sobre projetos, colaborações e mais informações.
 
 ## Sumário
@@ -30,10 +29,6 @@ Mario Mayerle Filho é um renomado profissional de TI com mais de três décadas
   O HUB I.A. Brasil impulsiona a Inteligência Artificial no país, conectando comunidades e promovendo inovação com lives, workshops e conteúdo de ponta. 
   [Assine - GRATUITO](https://hubiabrasil.com.br/)
 
-- ### dataGPT: 
-  Aplicativo SaaS de criação, análise e interpretações de gráficos (Big Data, Data Analysis & Data Engineering). Projeto Open Source (código aberto). 
-  [Saiba mais](https://www.datagpt.com.br)
-
 ## Recursos
 
 - **Livro: Utilizando o ChatGPT para Transformar sua Vida**: [Adquira](https://clubedeautores.com.br/livro/utilizando-o-chatgpt-para-mudar-sua-vida)
@@ -50,7 +45,10 @@ Para mais informações, colaborações ou consultas, não hesite em entrar em c
 
 # Mario Mayerle
 
-![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white) ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719) 
+[![Inscreva-se no HUB I.A. Brasil](https://img.shields.io/badge/Inscreva--se%20no%20HUB%20I.A.%20Brasil-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://www.hubiabrasil.com.br/)
+
+
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 Welcome! Here you will find links to projects, collaborations, and more information.
 
@@ -70,9 +68,6 @@ Mario Mayerle Filho is a renowned IT professional with over three decades of exp
   HUB I.A. Brasil drives Artificial Intelligence in the country, connecting communities and promoting innovation with live streams, workshops, and cutting-edge content. 
   [Subscribe - FREE](https://hubiabrasil.com.br/)
 
-- ### dataGPT: 
-  SaaS application for creating, analyzing, and interpreting graphs (Big Data, Data Analysis & Data Engineering). Open Source project. 
-  [Learn more](https://www.datagpt.com.br)
 
 ## Resources
 
